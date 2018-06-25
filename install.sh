@@ -1,4 +1,4 @@
-git clone git://github.com/KimiGao/vimfile.git ~/.vim
+git clone git://github.com/KimiGao/.vim.git ~/.vim
 cd ~/.vim
 
 sudo cp .vimrc ~/.vimrc
